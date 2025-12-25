@@ -1,0 +1,34 @@
+# 编译的Python文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 打包目录
+build/
+dist/
+*.spec
+
+# 临时文件
+*.tmp
+*.temp
+
+# 测试文档
+test_docs/
+
+# 发布文件
+release/
+*.zip
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
